@@ -1,0 +1,16 @@
+{
+  "name": "node-busy-task-async",
+  "version": "1.0.0",
+  "description": "Implemented async block to make unlock blocking api call ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
